@@ -1,7 +1,0 @@
-INDEX VERSION 1.127
-C:\Users\waddah.ajjaj\Desktop\testing\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3334044591.index
-\testApp\src\main\resources
-C:\Users\waddah.ajjaj\Desktop\testing\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\872742642.index
-\testApp\src\main\java
-C:\Users\waddah.ajjaj\Desktop\testing\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3747316045.index
-\testApp\src\main\resources
