@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Wed Mar 14 11:41:08 EET 2018
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\waddah.ajjaj\\.mWJR\\repository\\org\\springframework\\spring-web\\4.0.0.RELEASE\\spring-web-4.0.0.RELEASE.jar=WEB-INF/lib/spring-web-4.0.0.RELEASE.jar

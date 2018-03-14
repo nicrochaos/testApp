@@ -1,0 +1,11 @@
+package controllers;
+
+@Controller
+public class testController {
+
+	@RequestMapping(value="/welcome")
+	private String welcomePage(){
+		return "welcome";
+	}
+	
+}
